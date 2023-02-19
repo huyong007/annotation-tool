@@ -1,0 +1,1 @@
+/Users/huyong/allfile/learn/annotation-tool/wasm-canvas/target/wasm32-unknown-unknown/debug/libwasm_canvas.rlib: /Users/huyong/allfile/learn/annotation-tool/wasm-canvas/src/lib.rs /Users/huyong/allfile/learn/annotation-tool/wasm-canvas/src/utils.rs
