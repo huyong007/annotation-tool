@@ -5,3 +5,6 @@ bin/
 pkg/
 wasm-pack.log
 node_modules
+yarn.lock
+wasm-canvas/pkg
+wasm-canvas/target
